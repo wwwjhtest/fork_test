@@ -1,2 +1,2 @@
 # fork_test
-fork test
+fork test new
